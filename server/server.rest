@@ -1,0 +1,7 @@
+POST http://localhost:5000/create-checkout-session
+Content-Type: application/json
+
+{
+    "id": 1,
+    "quantity": 3
+}
